@@ -6,7 +6,7 @@ Mushroom classifier frontend
 
 A flutter frontend made for a mushroom classifier laboratory project.
 
-The project uses BLoC for state management and the camera plugin for taking pictures.
+The project uses BLoC for state management, the camera plugin for taking pictures, and the dio package for handling http requests.
 
 ## Getting Started
 
