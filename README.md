@@ -1,16 +1,16 @@
-# mushroom_classifier
+# Mushroom Classifier
 
 Mushroom classifier frontend
 
+## About
+
+A flutter frontend made for a mushroom classifier laboratory project.
+
+The project uses BLoC for state management and the camera plugin for taking pictures.
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the project, you need to have flutter installed. Then, you can run the following command:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```flutter pub get```
+```flutter run```
