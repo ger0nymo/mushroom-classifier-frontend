@@ -10,7 +10,7 @@ The project uses BLoC for state management, the camera plugin for taking picture
 
 ## Getting Started
 
-To run the project, you need to have flutter installed. Then, you can run the following command:
+To run the project, you need to have flutter installed. Then, you can run the following commands:
 
 ```flutter pub get```
 
